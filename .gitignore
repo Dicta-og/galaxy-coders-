@@ -1,0 +1,4 @@
+venv
+work/__pycache__
+work/migrations
+SyncHack/__pycache__
